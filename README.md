@@ -40,7 +40,7 @@ The simulation involves the following main components:
 
 This will run the simulation and display various plots showcasing the impact of different traits on hive metrics.
 
-Read the final report for the full rundown on the logic of the simulations as well as the results and discussion.
+# Read the final report for the full rundown on the logic of the simulations as well as the results and discussion.
 
 
    
