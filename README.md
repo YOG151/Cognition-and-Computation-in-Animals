@@ -27,3 +27,22 @@ The simulation involves the following main components:
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOG151/flocking-predator-simulation.git
+
+2. Navigate to the repository folder:
+   ```bash
+   cd flocking-predator-simulation
+   
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the simulation and analysis script:
+   ```bash
+   python main.py
+
+This will run the simulation and display various plots showcasing the impact of different traits on hive metrics.
+
+
+   
+
+
