@@ -1,5 +1,8 @@
 # Flocking and Predator Simulation
 
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*NY7lov3Kokm3i9ZL7fs9vw.jpeg" width= "400" height= "250">
+
+
 This repository contains a Python simulation and analysis of flocking behavior among agents and their interaction with a predator in a 2D environment using Pygame. The simulation explores how flocking behavior helps agents avoid predators and survive longer.
 
 ## Overview
